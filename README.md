@@ -1,5 +1,7 @@
 # LongC 
+
 --------This is a repository of me to GitHub----------
+
 👋 Hi, I’m Long.
 💡 Data Scientist passionate about health, biology, maths, chemistry as well as a curious mind for business, banking and finance — harnessing data stories to drive impact, trust, and positive change.  
 🔬 PhD in Molecular Biology & Biochemistry | Data Scientist | AI & Analytics Enthusiast  
