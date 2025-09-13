@@ -36,7 +36,18 @@ I believe data tells powerful stories — and when harvested correctly, it can d
 - Advanced ML workflows & financial crime detection  
 - Disease prediction models for healthcare analytics  
 - Business intelligence dashboards to empower decision-making  
-- AI model evaluation and prompt engineering  
+- AI model evaluation and prompt engineering
+- ## 📜 Certificates  
+
+- 🏆 **Coursera Data Science Challenge** – Ranked Top 92  
+  [![Top 92 Badge](outcomes/Top92.png)](https://your-link-here)  
+
+- 🎓 **IBM–Coursera Data Science Specialization**  
+  [![Coursera Badge](https://img.shields.io/badge/Coursera-Verified%20Certificate-blue)](https://coursera.org/verify/XXXXXX)
+-  **IBM-Coursera 
+- [!(Coursera Badge](https://www.credly.com/earner/earned/badge/c4b3932b-4ee1-432f-b802-eea24ace648a)
+
+
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn (add your link)  
