@@ -98,7 +98,7 @@ AI model evaluation, prompt engineering, and alignment research
 
 🎓 IBM Data Analyst Professional Certificate
 
-📫 Let’s Connect
+📫 Let’s Connect - <www.lcportfolio.org>
 
 💼 LinkedIn —<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="long-hoa-chung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/long-hoa-chung?trk=profile-badge">Long Chung</a></div>
               
