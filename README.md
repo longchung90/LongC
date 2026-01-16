@@ -11,8 +11,9 @@ This repository represents my professional GitHub portfolio.
 🔬 PhD in Molecular Biology & Biochemistry | Data Scientist | AI & Analytics Enthusiast
 
 I believe data tells powerful stories — and when harvested correctly, it can drive meaningful impact across every industry. My passion lies in transforming raw information into insights that improve human health, guide business decisions, and build stronger communities.
-
-<iframe src="https://github.com/sponsors/longchung90/card" title="Sponsor longchung90" height="225" width="600" style="border: 0;"></iframe>
+<p
+  <iframe src="https://github.com/sponsors/longchung90/card" title="Sponsor longchung90" height="225" width="600" style="border: 0;"></iframe>
+</p>
 
 # 💡 About Me
 
