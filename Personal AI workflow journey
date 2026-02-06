@@ -1,65 +1,54 @@
 # 🔧 AI-Assisted Development Methodology
 
-- I use AI as a reasoning and problem-solving partner, not as a blind code-generation tool.
+I use AI as a reasoning and problem-solving partner, not as a blind code-generation tool.
 
-- During my transition into data science and applied AI, I developed a review-based, human-in-control workflow using ChatGPT to support planning, understanding, and systematic debugging across my projects.
+During my transition into data science and applied AI, I developed a review-based, human-in-control workflow using ChatGPT to support planning, understanding, and systematic debugging across my projects.
 
-# 🧠 How I Work
+## 🧠 How I Work
 
-## 1. Problem Exploration & Design
-I begin by clarifying requirements, constraints, and assumptions in natural language.
-ChatGPT is used to explore approaches, compare alternatives, and translate domain knowledge into a concrete plan before writing code.
+### 1. Problem Exploration & Design
 
-## 2. Controlled Implementation
+I begin by clarifying requirements, constraints, and assumptions in natural language. ChatGPT is used to explore approaches, compare alternatives, and translate domain knowledge into a concrete plan before writing code.
+
+### 2. Controlled Implementation
+
 All code is written and integrated incrementally:
 
-AI suggestions are reviewed, adapted, and manually applied
+- AI suggestions are reviewed, adapted, and manually applied
+- No automatic or inline overwrites of working code
+- Design intent is preserved throughout implementation
 
-No automatic or inline overwrites of working code
+### 3. Iterative Debugging & Learning
 
-Design intent is preserved throughout implementation
-
-## 3. Iterative Debugging & Learning
 When issues arise, I use ChatGPT to:
 
-Diagnose root causes
-
-Understand why failures occur
-
-Apply targeted fixes rather than full rewrites
-
-Multiple refinement cycles are treated as part of the development process, not as errors.
+- Diagnose root causes
+- Understand why failures occur
+- Apply targeted fixes rather than full rewrites
+- Multiple refinement cycles are treated as part of the development process, not as errors
 
 ## 🛡️ Why This Approach
 
 Inline autocompletion tools can be effective in mature codebases, but during learning and early prototyping they can:
 
-Introduce uncontrolled changes
-
-Reduce visibility into logic
-
-Break working systems silently
+- Introduce uncontrolled changes
+- Reduce visibility into logic
+- Break working systems silently
 
 A review-first ChatGPT workflow ensures:
 
-Explainability over speed
-
-Safer iteration
-
-Deeper understanding of the codebase
-
-This mirrors scientific and analytical problem-solving practices.
+- Explainability over speed
+- Safer iteration
+- Deeper understanding of the codebase
+- This mirrors scientific and analytical problem-solving practices
 
 ## 🚀 Outcomes
 
 This methodology has enabled me to:
 
-Deliver complete, working data and AI projects
-
-Develop strong debugging and recovery skills
-
-Clearly articulate design decisions and trade-offs
-
-Use AI responsibly as a collaborator, not a crutch
+- Deliver complete, working data and AI projects
+- Develop strong debugging and recovery skills
+- Clearly articulate design decisions and trade-offs
+- Use AI responsibly as a collaborator, not a crutch
 
 The projects in this repository reflect both functional results and robust development thinking.
